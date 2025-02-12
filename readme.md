@@ -28,6 +28,6 @@ Para gerar o currículo em PDF a partir do arquivo `.tex`, siga os passos abaixo
    ```
 2. Se estiver usando uma distribuição LaTeX local:
 
-```bash
-pdflatex curriculo.tex
-```
+   ```bash
+   pdflatex curriculo.tex
+   ```
